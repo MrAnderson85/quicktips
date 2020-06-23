@@ -1,0 +1,33 @@
+body {
+
+	background-color: grey;
+}
+.subPage {
+	padding-top: 35px;
+	margin-top: 35px;
+}
+
+#head-pics img {
+	height: 24%;
+	width: 24%;
+	border: 1px solid black;
+}
+ul li ul {
+	list-style-type: square;
+}
+ul li ul li ul {
+	list-style-type: upper-roman;
+}
+j {
+	font-size: 2rem;
+}
+
+.done {
+	color: green;
+}
+.inProgress {
+	color: yellow;
+}
+.notStarted {
+	color:rgb(155, 13, 13);
+}

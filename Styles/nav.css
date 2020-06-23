@@ -1,0 +1,18 @@
+.nav {
+	background: #1a293cb4;
+	transition: 500ms;
+}
+.navbar-toggler-icon {
+	color: #007bff;
+}
+.nav:hover,
+.nav.scrolled {
+	background: #1a293c;
+	transition: 500ms;
+}
+#jumbo-content {
+	text-align: center;
+}
+.navbar-toggler-icon {
+	padding-right: 50px;
+}

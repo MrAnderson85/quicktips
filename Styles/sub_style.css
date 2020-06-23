@@ -1,0 +1,22 @@
+body {
+	background-color: grey;
+	
+}
+.subPage {
+	padding-top: 35px;
+	margin-top: 35px;
+}
+
+#head-pics img {
+	height: 24%;
+	width: 24%;
+	border: 1px solid black;
+}
+note {
+	background-color: #5e5e5e;
+	color: black;
+	font-size: 15px;
+}
+.jumbo-content{
+	text-align: center;
+}
