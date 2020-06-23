@@ -31,3 +31,7 @@ j {
 .notStarted {
 	color:rgb(155, 13, 13);
 }
+
+#mainjumbo {
+	background-image: "./pics/tech_pic.jpeg";
+}
