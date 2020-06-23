@@ -33,7 +33,7 @@ j {
 }
 
 #mainjumbo {
-	background-image: url(/pics/tech_pic.jpeg);
+	background-image: url("/pics/tech_pic.jpeg");
 background-size: cover;
 height: 100%
 }
